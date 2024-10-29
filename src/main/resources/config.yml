@@ -1,0 +1,30 @@
+fake_MOTD_enable: true # нужно ли добавлять фейковых игроков в motd
+ping:
+  maximum: 500 # максимальный пинг для фейковых игроков
+  interval: 8 # в секундах
+add_players:
+  # 0 - Кол-во фейковых игроков =  Кол-во настоящих игроков * factor
+  # 1 - Добавляется фиксированное число фейковых игроков count
+  mode: 1
+  factor: 1
+  count: 70 # Если значение больше, чем список имен, то имена будут автоматически генерироваться (Могут быть подозрительные совпадения)
+players_names: # имена фейковых игроков
+  - "VanDarkholme"
+  - "kriper2003"
+  - "MrBigCock"
+  - "cruplezShide"
+  - "clphaarChevon"
+  - "Game14Logan"
+  - "Lavicpooh95"
+  - "NillKiggers"
+  - "nogginkait"
+  - "UncleBogdan"
+  - "AnalniyTragladit"
+  - "furphygirls3"
+  - "dudeen_dad"
+  - "milousJaunce"
+  - "caraoce"
+  - "MonocJennet"
+  - "Blackra1nCal"
+  - "EbanayaChepucha"
+  - "formaPenisa"

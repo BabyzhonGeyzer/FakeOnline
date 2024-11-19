@@ -1,0 +1,6 @@
+name: FFOnline
+version: '${version}'
+main: ru.funfake.funfakeonline.FunFakeOnline
+depend: [ProtocolLib]
+api-version: '1.16'
+load: STARTUP
